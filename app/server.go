@@ -18,8 +18,8 @@ type HTTPRequest struct {
 	Body			string
 	UserAgent		string
 	ContentType		string
-	ContentLength 	string
-	AcceptEncoding	string
+	ContentLength 		string
+	AcceptEncoding		string
 }
 
 func main() {
